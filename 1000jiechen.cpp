@@ -31,11 +31,6 @@ int main(int argc, char* argv[])
 				//Get the value of current key.
 				result[i] = result[i] % 10;
 			}
-<<<<<<< HEAD
-
-=======
-
->>>>>>> 83579d849d5f7acd548935c7e5302e94a1752571
 		}
 	}
 	
